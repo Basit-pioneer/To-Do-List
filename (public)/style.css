@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS74p3ZK7vSr_xWff8V0bRt0Cw-eYZTZItQUA&usqp=CAU);
+}
+#main{
+    margin: 0 auto;
+    border: 2px solid lightblue;   
+    height: 400px; 
+    width: 340px;
+    margin-top: 25px;
+    border-radius: 2px;
+    background-color: lightblue;
+}
